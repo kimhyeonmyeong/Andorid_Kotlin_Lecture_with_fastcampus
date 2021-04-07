@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fastcampus_andorid_kotlin">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".MasterApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/MyTheme"
+        android:usesCleartextTraffic="true"
+        >
+
+
+        <activity android:name=".AppleActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MytubeDetailActivity" />
+        <activity android:name=".MyTubeActivity">
+        </activity>
+        <activity android:name=".OutStagramMyPostListActivity" />
+        <activity android:name=".OutStagramUploadActivity" />
+        <activity android:name=".OutStagramUserInfoActivity" />
+        <activity android:name=".OutStagramPostListAcitivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".EmailSignupActivity"></activity>
+        <activity android:name=".PermissionActivity" />
+        <activity android:name=".RetrofitActivity" />
+        <activity android:name=".NetworkActivity" />
+        <activity android:name=".AsyncActivity" />
+        <activity android:name=".RelamActivity" />
+        <activity android:name=".SharedPreference" />
+        <activity android:name=".TabPager2" />
+        <activity android:name=".TabPagerActivity" />
+        <activity android:name=".PhonebookWithRecyclerActivity" />
+        <activity android:name=".RecyclerView" />
+        <activity android:name=".ListViewActivity" />
+        <activity android:name=".PhoneBookDetail" />
+        <activity android:name=".PhoneBook" />
+        <activity android:name=".AddViewActivity" />
+        <activity android:name=".Library" />
+        <activity android:name=".ThreadActivity" />
+        <activity android:name=".Resource" />
+        <activity android:name=".ContextActivity" />
+        <activity android:name=".NullSafety" />
+        <activity android:name=".FragmentActivity" />
+        <activity android:name=".openInternet" />
+        <activity android:name=".Intent1" />
+        <activity android:name=".Intent2" />
+        <activity android:name=".Calculator" />
+        <activity android:name=".Listener" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

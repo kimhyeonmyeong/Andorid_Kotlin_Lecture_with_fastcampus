@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF92F8"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:text="OutStagram"
+        android:textColor="#6723E6"
+        android:textSize="50dp" />
+
+    <EditText
+        android:id="@+id/username_inputBox"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:hint="아이디를 입력해주세요"
+        android:textColorHint="#3F56D1"
+
+        />
+
+    <EditText
+        android:id="@+id/username_passwordBox"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:hint="비밀번호를 입력해주세요"
+        android:inputType="textPassword"
+        android:textColorHint="#3F56D1" />
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:text="로그인하기"
+        android:textColor="#6723E6"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/register"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="가입하기"
+        android:textColor="#6723E6"
+        android:textSize="25dp" />
+
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FF92F8"
+    tools:context=".EmailSignupActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OutStagram"
+        android:textSize="50dp"
+        android:textColor="#6723E6"
+        android:gravity="center"
+        android:layout_marginTop="100dp"
+        />
+
+    <EditText
+        android:id="@+id/username_inputBox"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="#FFFFFF"
+        android:textColorHint="#3F56D1"
+        android:hint="아이디를 입력해주세요"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="200dp"
+
+        />
+    <EditText
+        android:id="@+id/username_passwordBox"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="#FFFFFF"
+        android:textColorHint="#3F56D1"
+        android:hint="비밀번호를 입력해주세요"
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        />
+    <EditText
+        android:id="@+id/username_re_passwordBox"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="#FDFCFC"
+        android:textColorHint="#3F56D1"
+        android:hint="비밀번호를 다시 입력해주세요"
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="로그인하기"
+        android:textSize="25dp"
+        android:textColor="#6723E6"
+        android:gravity="center"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:id="@+id/register"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="가입하기"
+        android:textSize="25dp"
+        android:textColor="#6723E6"
+        android:gravity="center"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>
