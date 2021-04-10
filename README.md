@@ -1,4 +1,4 @@
-안드로이드 Fastcampus 기본 강의를 수강하면서 공부하고 기록한 내용들입니다.
+안드로이드 관련 기본 강의를 수강하면서 공부하고 기록한 내용들입니다.
 
 https://kimsmartblog.tistory.com/
 
