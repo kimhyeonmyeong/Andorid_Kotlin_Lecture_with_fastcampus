@@ -2,7 +2,7 @@
 
 https://kimsmartblog.tistory.com/
 
-블로그 Andorid 파트에 내용별로 정리할 계획입니다.
+블로그 Andorid 파트에 내용별로 정리되어 있습니다.
 
 ***
 ## 강의 제목 및 출처
