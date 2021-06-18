@@ -7,7 +7,7 @@ https://kimsmartblog.tistory.com/
 블로그 Andorid 파트에 내용별로 정리되어 있습니다.
 
 
-## 강의 제목 및 출처
+## 강의 제목
 https://fastcampus.co.kr/
 
 Android 앱 개발 올인원 패키지 Online _은창현 강사님
