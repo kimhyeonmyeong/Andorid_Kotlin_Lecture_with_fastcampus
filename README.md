@@ -14,10 +14,9 @@ Android 앱 개발 올인원 패키지 Online _은창현 강사님
 
 
 ## 목차
-![image](https://user-images.githubusercontent.com/44837403/113843377-7cee9600-97ce-11eb-9239-e649f2c3e09e.png)
-![image](https://user-images.githubusercontent.com/44837403/113843412-837d0d80-97ce-11eb-84a6-ba6b6d68f33b.png)
-![image](https://user-images.githubusercontent.com/44837403/113843439-87a92b00-97ce-11eb-8a6f-d805ca1e45cc.png)
-![image](https://user-images.githubusercontent.com/44837403/113843461-8c6ddf00-97ce-11eb-86c7-747dec5c2f16.png)
+
+https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202106/144528-24/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%EC%B4%88%EA%B2%A9%EC%B0%A8-%ED%8C%A8%ED%82%A4%EC%A7%80--30%EA%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-android-%EC%95%B1-%EA%B0%9C%EB%B0%9C-with-kotlin.pdf
+
 
 ## 실습 toy project
 
@@ -46,12 +45,13 @@ Network: Retrofit을 사용해 로그인, 업로드, Post 기능을 위한 Netwo
 
 ## 느낀점
 
- 평소 모바일 어플리케이션 개발에 관심이 많았습니다. 다만, 바로 프로젝트 개발에 뛰어들기보다는 전체적인 모바일 앱개발의 흐름과
-배경에 대해서 먼저 공부를 진행하고자 하였습니다. 안드로이드에 대한 기본적인 공부를 바탕으로 프로젝트 개발들을 진행하는 것이
+ 평소 모바일 어플리케이션 개발에 관심이 많았습니다. 다만, 바로 App 개발에 뛰어들기보다는 전체적인 모바일 앱개발의 기본과
+배경에 대해서 먼저 공부를 진행하고자 하였습니다. 안드로이드에 대한 기본적인 공부를 바탕으로 프로젝트 개발을 진행하는 것이
 더 폭 넓은 insight를 가지고 실용적인 것들을 개발할 수 있을거라고 생각했습니다.
-이 강의들을 수강하고 직접 코드를 짜보면서 안드로이드 개발이 어떤식으로 이루어지는지 기본적인 초석을 다질 수 있었습니다.
-또한 기본적인 문법과 여러 기능들(View, Network, Database,Interface 등등)이 어떤식으로 사용되는지에 대해서 배울 수 있었습니다.
 
+위의 과정을 통해 안드로이드 개발이 어떤식으로 진행되는지를 이해하고 기본적인 초석을 다질 수 있었습니다.
+또한 Kotlin의 기본적인 문법과 Android의 기본 구성들(View, Network, Database, Interface 등등)에 대해서 익히고 
+진득하게 Mobile 프로그래밍을 경험했습니다.
 
 
 
