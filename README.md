@@ -14,8 +14,7 @@ Android 앱 개발 올인원 패키지 Online _은창현 강사님
 
 
 ## 목차
-
-https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202106/144528-24/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%EC%B4%88%EA%B2%A9%EC%B0%A8-%ED%8C%A8%ED%82%A4%EC%A7%80--30%EA%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-android-%EC%95%B1-%EA%B0%9C%EB%B0%9C-with-kotlin.pdf
+![image](https://user-images.githubusercontent.com/44837403/146862257-a610c41c-a93d-4ef0-a4f1-022052f8d58f.png)
 
 
 ## 실습 toy project
