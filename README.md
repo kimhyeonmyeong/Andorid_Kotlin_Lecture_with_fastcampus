@@ -1,11 +1,11 @@
 ## Android Studying and Programming (Kotlin)
 
-안드로이드 관련 기본 강의를 수강하면서 공부하고 기록한 내용들입니다.
+안드로이드 Kotlin에 대해 전반적으로 공부하고 실습 코드들을 정리했습니다.
 
-https://kimsmartblog.tistory.com/
 
-블로그 Andorid 파트에 내용별로 정리되어 있습니다.
+블로그 정리
 
+https://kimsmartblog.tistory.com/category/%5BAndroid%5D
 
 ## 강의 제목
 https://fastcampus.co.kr/
