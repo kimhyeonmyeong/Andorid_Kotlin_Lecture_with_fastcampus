@@ -13,17 +13,13 @@ https://fastcampus.co.kr/
 Android 앱 개발 올인원 패키지 Online _은창현
 
 
-## 목차
-![image](https://user-images.githubusercontent.com/44837403/146862257-a610c41c-a93d-4ef0-a4f1-022052f8d58f.png)
-
-
-## 실습 toy project
+### Practice
 
 #### Instagram
 
 ![image](https://user-images.githubusercontent.com/44837403/116643244-8d4bf800-a9ab-11eb-81b1-a3498e7173ee.png)
 
-#### 프로그램 설명 및 기능
+#### Specification
 
 전체Post, 본인Post, 업로드, 유저 정보 확인 Activity 구성
 
