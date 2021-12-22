@@ -10,7 +10,7 @@ https://kimsmartblog.tistory.com/category/%5BAndroid%5D
 ## 강의 제목
 https://fastcampus.co.kr/
 
-Android 앱 개발 올인원 패키지 Online _은창현 강사님
+Android 앱 개발 올인원 패키지 Online _은창현
 
 
 ## 목차
