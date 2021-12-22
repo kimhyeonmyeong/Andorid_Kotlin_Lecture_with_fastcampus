@@ -17,7 +17,7 @@ Android 앱 개발 올인원 패키지 Online _은창현
 
 - Kotlin과 Andorid 개발에 대한 전반적인 강의
 
-### Practice
+### Some Practices
 
 #### Instagram
 
