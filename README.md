@@ -2,11 +2,6 @@
 
 안드로이드 Kotlin에 대해 전반적으로 공부하고 실습 코드들을 정리했습니다.
 
-
-블로그 정리
-
-https://kimsmartblog.tistory.com/category/%5BAndroid%5D
-
 ### 수강 강의
 https://fastcampus.co.kr/
 
