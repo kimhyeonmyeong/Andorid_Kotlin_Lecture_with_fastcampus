@@ -16,7 +16,7 @@ Android 앱 개발 올인원 패키지 Online _은창현
 
 #### Instagram
 
-![image](https://user-images.githubusercontent.com/44837403/116643244-8d4bf800-a9ab-11eb-81b1-a3498e7173ee.png)
+![image](https://user-images.githubusercontent.com/44837403/148146738-e88275f3-9c4e-45c6-9190-1e3b08eb1f0b.png)
 
 - View: 각 Activitty는 Recycler View
 
