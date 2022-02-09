@@ -13,6 +13,7 @@ Android 앱 개발 올인원 Online _은창현
 ### Specification
 
 - Kotlin과 Andorid 개발에 대한 전반적인 개념 및 실습   
+- Kotlin 
 - Activitiy   
 - Listener    
 - Intent    
