@@ -2,10 +2,10 @@
 
 안드로이드 Kotlin에 대해 전반적으로 공부하고 실습 코드들을 정리했습니다.
 
-### 수강 강의
+### 강의 제목
 https://fastcampus.co.kr/
 
-Android 앱 개발 올인원 패키지 Online _은창현
+Android 앱 개발 올인원 Online _은창현
 
 
 #### Specification
