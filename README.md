@@ -7,10 +7,20 @@ https://fastcampus.co.kr/
 
 Android 앱 개발 올인원 Online _은창현
 
+### 진행 기간
+2021-01-05 ~ 2021-02-16
 
-#### Specification
+### Specification
 
-- Kotlin과 Andorid 개발에 대한 전반적인 강의
+- Kotlin과 Andorid 개발에 대한 전반적인 개념 및 실습   
+- Activitiy   
+- Listener    
+- Intent    
+- Fragment    
+- Thread    
+- View(ListView, RecyclerView)    
+- Database(Shared, Realm)      
+- NetWork(Retrofit)   
 
 ### Some Practices
 
@@ -30,8 +40,7 @@ Android 앱 개발 올인원 Online _은창현
 
 비슷한 원리로 melon, youtube toy project도 있습니다. (음악재생, 동영상 재생부분 고려)
 
-### 진행 기간
-2021-01-05 ~ 2021-02-16
+
 
 
 
