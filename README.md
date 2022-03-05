@@ -8,7 +8,7 @@ https://fastcampus.co.kr/
 Android 앱 개발 올인원 Online _은창현
 
 ### 진행 기간
-2021-01-05 ~ 2021-02-16
+2021-01-01 ~ 2021-02-28
 
 ### Specification
 
