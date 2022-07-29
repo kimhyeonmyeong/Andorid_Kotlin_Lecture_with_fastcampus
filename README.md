@@ -1,11 +1,10 @@
 ## Android Studying and Programming (Kotlin)
 
-안드로이드 Kotlin에 대해 전반적으로 공부하고 실습 코드들을 정리했습니다.
+안드로이드 Kotlin
 
-### 강의 제목
+### Reference
 https://fastcampus.co.kr/
-
-Android 앱 개발 올인원 Online _은창현
+Android 앱 개발 올인원 Online
 
 ### 진행 기간
 2021-01-01 ~ 2021-02-28
@@ -39,7 +38,7 @@ Android 앱 개발 올인원 Online _은창현
 
 - Permission을 얻고 사진을 업로드하는 기능
 
-비슷한 원리로 melon, youtube toy project도 있습니다. (음악재생, 동영상 재생부분 고려)
+비슷한 원리: melon, youtube toy project (음악재생, 동영상 재생부분 고려)
 
 
 
