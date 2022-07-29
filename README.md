@@ -1,4 +1,4 @@
-## Android Studying and Programming (Kotlin)
+## Android Programming (Kotlin)
 
 안드로이드 Kotlin
 
