@@ -1,10 +1,6 @@
-## Android Programming (Kotlin)
+## Android (Kotlin)
 
 안드로이드 Kotlin
-
-### Reference
-https://fastcampus.co.kr/
-Android 앱 개발 올인원 Online
 
 ### 진행 기간
 2021-01-01 ~ 2021-02-28
@@ -38,9 +34,11 @@ Android 앱 개발 올인원 Online
 
 - Permission을 얻고 사진을 업로드하는 기능
 
-비슷한 원리: melon, youtube toy project (음악재생, 동영상 재생부분 고려)
++: melon, youtube toy project (음악재생, 동영상 재생부분 고려)
 
-
+### Reference
+https://fastcampus.co.kr/
+Android 앱 개발 올인원 Online
 
 
 
